@@ -1,4 +1,4 @@
-# Ubeswap SDK
+# SDB-SDK
 
 ## Running tests
 
