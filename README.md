@@ -1,4 +1,4 @@
-# SDB-SDK
+# v1-SDK
 
 ## Running tests
 
